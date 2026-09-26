@@ -10,7 +10,7 @@
 
 ## 📌 Project Overview
 
-Part 2 of the [Student Database project](../student-database-postgresql-bash) — building on the normalized 4-table PostgreSQL schema from Part 1 by adding **advanced SQL querying** and a **Bash reporting script** (`student_info.sh`).
+Part 2 of the [Student Database project](https://github.com/utiwisdom/student-database-postgresql-bash) — building on the normalized 4-table PostgreSQL schema from Part 1 by adding **advanced SQL querying** and a **Bash reporting script** (`student_info.sh`).
 
 Where Part 1 focused on **loading** data (ETL: CSV → normalized DB), Part 2 focuses on **querying** that data: filtering, pattern matching, aggregating, sorting, limiting, and — most importantly — **joining multiple tables together**.
 
