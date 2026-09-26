@@ -182,8 +182,8 @@ The script prints 11 sections, each with a heading and its query results.
 
 ## 🖼️ Screenshots
 
-![Students table in pgAdmin](IM_2.PNG)
-![Query verification](IM_1.PNG  )
+![Students table in pgAdmin](IM_2.png)
+![Query verification](IM_1.png  )
 
 ---
 
